@@ -8,5 +8,5 @@ Assets--> images
 contains png files of all used assets
 
 link to screenshot of completed website: 
-![Alt text](./Develop/assets/images/Completed-Site-Screenshot.png)
+![Alt text](./assets/images/Completed-Site-Screenshot.png)
 
